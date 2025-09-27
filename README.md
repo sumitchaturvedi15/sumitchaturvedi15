@@ -69,6 +69,37 @@
 
 ###
 
+## 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/Greedy_Goblin/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/sumitc15" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Greedy_Goblin](https://codeforces.com/profile/luckysumit07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Greedy_Goblin?theme=dark&font=baloo&ext=heatmap&width=900&height=400" />
+</p>
+
+
+###
+## ⚡ Tech Stack
+💻 **Languages:** C++ | Python | Java | JavaScript  
+🌐 **Frameworks:** React | Node.js | Express  
+🗄️ **Databases:** MongoDB | MySQL  
+
+###
+
 <div align="center">
   <img height="200" src="https://imgs.search.brave.com/m8eqGdFtr_DeiyM58OLb2B9ldJGhBgt6GMKsOM5tzK0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Fn/aWYuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9naWZ5LzEyLWNh/cnRvb24tZ29qby13/YXZlcy1oaXMtaGFu/ZC5naWY.gif"  />
 </div>
