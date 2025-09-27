@@ -1,85 +1,97 @@
-<h2 align="left">Hi 👋! My name is Sumit Chaturvedi <br><br>I'm a Full Stack Developer, Competitive Programmer, and Software Developer,<br> <br>from the Institute of Engineering & Technology, Devi Ahilya University, Indore.</h2>
+<!-- ====== 👋 Intro Section ====== -->
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40px" alt="hi"/> 
+  Hi, I'm <span style="color:#FFA116;">Sumit Chaturvedi</span>
+</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFA116&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Competitive+Programmer;Software+Developer;Always+Learning+New+Things!" alt="Typing Animation" />
+</p>
 
-<img align="right" height="150" src="https://imgs.search.brave.com/OrG3G-XK1C_dgL6kPAkt1QUwPHqkN5VvdDFVUBYfqkQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waWNz/LmNyYWl5b24uY29t/LzIwMjQtMDktMTAv/N3lpdEE3WXNUb1dk/N3lOc1ZsMjktUS53/ZWJw"  />
+<h4 align="center">🎓 Institute of Engineering & Technology, Devi Ahilya University, Indore</h4>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<!-- ====== 👨‍💻 Tech Stack with Side GIF ====== -->
+<div align="center">
+  <img align="right" height="180" src="https://imgs.search.brave.com/OrG3G-XK1C_dgL6kPAkt1QUwPHqkN5VvdDFVUBYfqkQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waWNz/LmNyYWl5b24uY29t/LzIwMjQtMDktMTAv/N3lpdEE3WXNUb1dk/N3lOc1ZsMjktUS53/ZWJw" alt="Coding Pic"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode"/>
 </div>
 
-###
+---
 
-<div align="left">
+<!-- ====== 🌐 Social Links ====== -->
+<p align="center">
   <a href="https://www.instagram.com/sumitchaturvedii15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sumitchaturvedi15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+<!-- ====== 🐍 Snake Animation ====== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumitchaturvedi15/sumitchaturvedi15/output/snake.svg" alt="Snake animation"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/sumitchaturvedi15/sumitchaturvedi15/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<!-- ====== 📊 GitHub & LeetCode Stats ====== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitchaturvedi15&layout=compact&card_width=400&langs_count=6&theme=dracula" height="170" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitchaturvedi15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+---
 
 ## 🌐 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/Greedy_Goblin/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/sumitc15" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/Greedy_Goblin](https://codeforces.com/profile/luckysumit07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  <a href="https://codeforces.com/profile/luckysumit07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
@@ -88,20 +100,12 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Greedy_Goblin?theme=dark&font=baloo&ext=heatmap&width=900&height=400" />
+  <img src="https://leetcard.jacoblin.cool/Greedy_Goblin?theme=dark&font=baloo&ext=heatmap&width=900&height=400"/>
 </p>
 
+---
 
-###
-## ⚡ Tech Stack
-💻 **Languages:** C++ | Python | Java | JavaScript  
-🌐 **Frameworks:** React | Node.js | Express  
-🗄️ **Databases:** MongoDB | MySQL  
-
-###
-
+<!-- ====== 👾 Fun GIF at End ====== -->
 <div align="center">
-  <img height="200" src="https://imgs.search.brave.com/m8eqGdFtr_DeiyM58OLb2B9ldJGhBgt6GMKsOM5tzK0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Fn/aWYuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9naWZ5LzEyLWNh/cnRvb24tZ29qby13/YXZlcy1oaXMtaGFu/ZC5naWY.gif"  />
+  <img height="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="Coding GIF"/>
 </div>
-
-###
