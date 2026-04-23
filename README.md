@@ -84,13 +84,13 @@
 ## 🌐 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/Greedy_Goblin/" target="_blank">
+  <a href="https://leetcode.com/u/algo_sage/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/sumitc15" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%23B92B27?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/luckysumit07" target="_blank">
+  <a href="https://codeforces.com/profile/sumitchaturvedii15" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
@@ -100,7 +100,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Greedy_Goblin?theme=dark&font=baloo&ext=heatmap&width=900&height=400"/>
+  <img src="https://leetcard.jacoblin.cool/algo_sage?theme=dark&font=baloo&ext=heatmap&width=900&height=400"/>
 </p>
 
 ---
